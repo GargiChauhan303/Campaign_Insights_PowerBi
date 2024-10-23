@@ -11,9 +11,13 @@ Implemented rigorous data cleaning processes to eliminate duplicates and inconsi
 Created engaging and interactive dashboards that clearly present vital metrics and trends.
 # Key Features of the Dashboard
 Sales Overview: A detailed breakdown of total sales and approved conversions, enabling quick assessment of campaign success.
+
 Demographic Insights: Visualization of customer demographics, including age and gender, to inform targeted marketing strategies.
+
 Market Analysis: Identification of the top-performing markets, helping teams focus their efforts where they are most effective.
+
 Ad Effectiveness: Insights into which advertisements generated the highest engagement and conversion rates.
+
 Strategic Insights: Recommendations for adjusting marketing approaches towards VIP customers and opportunities for acquiring new clientele.
 
 # Conclusion
